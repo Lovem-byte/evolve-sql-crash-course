@@ -13,13 +13,14 @@
 -- Question 2: What year was the youngest person born in the company?
 -- Table: employees
 
+--Question 3
+Return the hire_date column and  Join the first name and last name in a single column and name it love, select the date from the employees table
 
--- BEFORE YOU START
-/*
- * What database should I use for these exercises?
- * Name: France
- */
--- 
+Question 4
+Return the all the data in the department table
 
--- Question 1: How many towns are there in france?
--- Table: Towns
+Question 5
+What is the total salary the companies paid to all their employees
+
+
+
